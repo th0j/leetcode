@@ -1,0 +1,15 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "Leetcode solutions implemented on JavaScript",
+  "main": "index.js",
+  "repository": "git@github.com:vtt298/leetcode.git",
+  "author": "tho.vo <votantho93@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
