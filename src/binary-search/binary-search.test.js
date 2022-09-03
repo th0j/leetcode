@@ -1,6 +1,6 @@
 const search = require('./binary-search')
 
-describe('Best Time to Buy and Sell Stock', () => {
+describe('Binary Search', () => {
   it('Example 1', () => {
     expect(search([-1, 0, 3, 5, 9, 12], 9)).toEqual(4)
   })
